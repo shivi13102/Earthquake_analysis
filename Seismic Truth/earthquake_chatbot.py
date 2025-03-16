@@ -224,9 +224,31 @@ elif option == "📜 Past Earthquakes":
 elif option == "📞 Emergency Contacts":
     st.subheader("🚨 Emergency Contacts & Resources")
     st.write("""
-    - **🇺🇸 USA:** FEMA: 1-800-621-FEMA (3362)
+    - **🇦🇺 Australia:** Emergency Services: 000
+    - **🇨🇦 Canada:** Public Safety Canada: 1-800-O-Canada (1-800-622-6232)
+    - **🇨🇱 Chile:** ONEMI (National Emergency Office): 132
+    - **🇨🇳 China:** China Earthquake Administration: 12322
+    - **🇪🇨 Ecuador:** ECU 911
+    - **🇫🇷 France:** Sécurité Civile: 112
+    - **🇩🇪 Germany:** Federal Office for Civil Protection and Disaster Assistance (BBK): 112
+    - **🇬🇷 Greece:** General Secretariat for Civil Protection: 112
     - **🇮🇳 India:** NDRF: 1078 | NDMA: 011-26701728
+    - **🇮🇩 Indonesia:** BNPB (National Disaster Mitigation Agency): 117
+    - **🇮🇹 Italy:** Protezione Civile: 800 840 840
     - **🇯🇵 Japan:** Japan Meteorological Agency: 03-3212-8341
+    - **🇲🇽 Mexico:** Sistema Nacional de Protección Civil: 911
+    - **🇳🇱 Netherlands:** National Crisis Centre: 112
+    - **🇳🇿 New Zealand:** Civil Defence: 111
+    - **🇵🇪 Peru:** INDECI (National Institute of Civil Defense): 115
+    - **🇵🇭 Philippines:** NDRRMC (National Disaster Risk Reduction and Management Council): 117
+    - **🇵🇹 Portugal:** Autoridade Nacional de Emergência e Proteção Civil: 112
+    - **🇸🇬 Singapore:** Singapore Civil Defence Force: 995
+    - **🇰🇷 South Korea:** National Emergency Management Agency: 119
+    - **🇹🇼 Taiwan:** Central Weather Bureau: 119
+    - **🇹🇷 Turkey:** AFAD (Disaster and Emergency Management Presidency): 112
+    - **🇬🇧 UK:** Emergency Services: 999 or 112
+    - **🇺🇸 USA:** FEMA: 1-800-621-FEMA (3362)
+    - **🇿🇦 South Africa:** Emergency Services: 112
     - **🌎 Global:** Red Cross: https://www.redcross.org
     """)
 
